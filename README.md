@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Senior Data scientist in ServiceNow<br>👯 I’m looking to collaborate on AI/ML projects <br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Machine Learning
+🔭 I’m currently working as Staff Data scientist in ServiceNow<br>👯 I’m looking to collaborate on AI/ML projects <br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Machine Learning
 
 
 ## 🌐 Socials:
